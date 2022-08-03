@@ -16,7 +16,7 @@ public class dabdab {
 		int [] sinarray = {1, 3, 3, 3, 3, 3, 3, 3, 1, 2};
 		int [] kimarray = {1, 2, 3, 4, 1, 2, 3, 1, 1, 2};
 		
-		System.out.println(mymethod(jumsu);	
+		System.out.println(mymethod();	
 	}
 	int [] mymethod(){
 		int sum = 0;
